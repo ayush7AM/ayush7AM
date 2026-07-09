@@ -355,5 +355,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <sub>⭐ Star my repos if you find them useful! • Built with ❤️ by <a href="https://github.com/ayush7AM">Ayush Kumar</a></sub>
+  <sub>⭐ Star my repos if you find them useful! • Built with ❤️ by <a href="https://github.com/ayush7AM">Ayush Mishra</a></sub>
 </div>
