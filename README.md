@@ -1,12 +1,12 @@
 <!-- Header Banner with Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AYUSH%20KUMAR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Data%20%26%20Cloud%20Engineer&descAlignY=55&descAlign=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1a1b27&height=280&section=header&text=Ayush%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Analyst%20|%20Data%20Scientist%20|%20Cloud%20Engineer&descAlignY=52&descAlign=50&descSize=17" width="100%" />
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%90%8D+Building+Data+Pipelines+%26+Analytics+Systems;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%2F+GCP+%2F+Azure;%F0%9F%93%8A+Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%F0%9F%90%8D+Building+Data+Pipelines;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%2F+GCP+%2F+Azure;%F0%9F%93%8A+Turning+Raw+Data+into+Insights" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/ayush7AM?label=Followers&style=for-the-badge&color=2E86C1&labelColor=1a1b27" alt="Followers" />
   </a>
   <a href="https://github.com/ayush7AM?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=2E86C1&label=Repos&style=for-the-badge&labelColor=1a1b27&query=public_repos&url=https://api.github.com/users/ayush7AM" alt="Repos" />
+    <img src="https://img.shields.io/badge/dynamic/json.svg?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayush7AM&style=for-the-badge&color=2E86C1&labelColor=1a1b27" alt="Repos" />
   </a>
   <a href="https://github.com/ayush7AM">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge&labelColor=1a1b27" alt="Open Source Love" />
